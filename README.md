@@ -1,4 +1,4 @@
 # dotfiles
 
-A repo with all my dotfiles
-use at your own risk
+### A repo with all my dotfiles
+_use at your own risk_
