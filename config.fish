@@ -12,3 +12,4 @@ alias flex='clear && neofetch'
 alias root="sudo -i"
 
 # theme: omf -> bira
+# theme: omf -> emoji-powerline
